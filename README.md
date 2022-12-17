@@ -17,3 +17,20 @@ Languages: **Solidity ^0.5.5**
 <div style="text-align: left"><img src="./EvaluationEvidence/crowdsale_compile.png" width="800" /></div>
 <div style="text-align: left"><img src="./EvaluationEvidence/deployer_compile.png" width="700" /></div>
 
+## Initial Ganache Values and Metamask Account Addition
+<div style="text-align: left"><img src="./EvaluationEvidence/ganache_initial.png" width="700" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/metamask_account.png" width="300" /></div>
+
+## Deployment 
+<div style="text-align: left"><img src="./EvaluationEvidence/deploymentOfContract.png" width="300" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/ganache_account_creation.png" width="700" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/ganache_initial_gas.png" width="700" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/connected_crowdsale.png" width="300" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/connected_KaseiCoin.png" width="300" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/metamask_account.png" width="300" /></div>
+
+## Large Ether Buy
+<div style="text-align: left"><img src="./EvaluationEvidence/significant_buy.png" width="700" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/significant_buy_ganache.png" width="700" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/significant_buy_metamask.png" width="300" /></div>
+<div style="text-align: left"><img src="./EvaluationEvidence/total_supply.png" width="300" /></div>
