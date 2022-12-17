@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.5.0+commit.1d4f565a"
+		"version": "0.5.5+commit.47a71e8f"
 	},
 	"language": "Solidity",
 	"output": {
@@ -423,7 +423,7 @@
 		"compilationTarget": {
 			"KaseiCoin.sol": "KaseiCoin"
 		},
-		"evmVersion": "byzantium",
+		"evmVersion": "petersburg",
 		"libraries": {},
 		"optimizer": {
 			"enabled": false,
@@ -433,9 +433,9 @@
 	},
 	"sources": {
 		"KaseiCoin.sol": {
-			"keccak256": "0xb372e9b442760ad2c06554c3e3a1cf8b593cc14f271811fa1b8c9fbf955ef853",
+			"keccak256": "0xadf41ac0742e8c859514d681321ec231ab00fb0cfc645bab456665f85d4b1807",
 			"urls": [
-				"bzzr://0010b87eda78bd7f4c5263de1934ac05cec4a50a8bd35f0ec2b2c9defbef295b"
+				"bzzr://28601bae755e513ed3dabd195f41bc1eba8bc666cd061910539326c540d22e21"
 			]
 		},
 		"https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/GSN/Context.sol": {
